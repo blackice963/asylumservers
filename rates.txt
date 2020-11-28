@@ -1,4 +1,4 @@
-<div class="text-orange">
+<div class="text-orange mb-2">
   Current Rates:
   Mating Interval - 0.25
   Mature Speed - 6
