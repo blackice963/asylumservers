@@ -1,0 +1,5 @@
+Current Rates:
+Mating Interval - 0.25
+Mature Speed - 6
+Hatch Speed - 10
+Imprint Interval - 0.2893
